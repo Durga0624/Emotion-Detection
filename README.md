@@ -33,8 +33,6 @@ Predict Emotion: Use a trained SVM model to classify emotion.
 Output: Print transcription, detected emotion, and language.
 
 # 🛠 Installation
-bash
-CopyEdit
 pip install openai-whisper librosa scikit-learn moviepy numpy
 # 📄 Sample Code
 python
